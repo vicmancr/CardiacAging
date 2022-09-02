@@ -1,0 +1,10 @@
+data/ukbb
+logs/
+results/
+checkpoints/
+
+# Python compiled files
+*.pyc
+
+# Containers
+*.sif
